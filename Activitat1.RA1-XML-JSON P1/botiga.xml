@@ -1,0 +1,25 @@
+<?xml version="1.0" enconding"UTF-8"?>
+
+<botiga nom="La Botiga Online">
+
+    <producte codi="001">
+        <nom>Teclat Mecànic</nom>
+        <descripcio>Teclat mecànic amb il·luminació RGB i switches òptics.</descripcio>
+        <preu>79.99</preu> 
+        <categoria>Electrònica</categoria>
+        <stock>25</stock>
+        <multimedia>
+            <imatge>https://tse2.mm.bing.net/th/id/OIP.lredHHLgGgPJ0dm2mOtHoQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3</imatge>
+        </multimedia>
+    </producte>    
+
+    <producte codi="002">
+        <nom>Ratolí d'oficina</nom>
+        <descripcio>Ratolí ergonòmic amb sensor òptic.</descripcio>
+        <preu>9.99</preu>
+        <categoria>Electrònica</categoria>
+        <stock>esgotat</stock>
+        <multimedia>
+            <imatge>https://tse4.mm.bing.net/th/id/OIP.aowhzL3R26yVZ1bHt6ZkyAHaHa?w=600&h=600&rs=1&pid=ImgDetMain&o=7&rm=3</imatge>
+        </multimedia>
+    </producte>    

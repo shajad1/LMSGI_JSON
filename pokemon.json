@@ -1,0 +1,84 @@
+{
+    "pokemon": [
+        {
+            "id": 1,
+            "nom": "Bulbasaur",
+            "tipus": ["Planta", "Verí"],
+            "pes": {
+                "valor": 6.9,
+                "unitat": "kg"
+            },
+            "altura": {
+                "valor": 0.7,
+                "unitat": "m"
+            },
+            "estadisticas": {
+                "velocitat": 3,
+                "fortalesa": 3,
+                "precisio": 4,
+                "resistencia": 4
+            },
+            "moviments": [
+                {
+                    "nom": "Látigo Cepa",
+                    "descripcio": "Colpeja l'enemic amb ceps flexibles.",
+                    "potencia": 45,
+                    "contacte": true
+                },
+                {
+                    "nom": "Placaje",
+                    "descripcio": "Ataca l'enemic amb tot el cos.",
+                    "potencia": 40,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/4/43/latest/20190406170624/Bulbasaur.png",
+            "evolucions": [
+                {
+                "id": 2,
+                "nivell": 16
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "nom": "Ivysaur",
+            "tipus": ["Planta", "Verí"],
+            "pes": {
+                "valor": 13,
+                "unitat": "kg"
+            },
+            "altura": {
+                "valor": 1,
+                "unitat": "m"
+            },
+            "estadisticas": {
+                "velocitat": 2,
+                "fortalesa": 3,
+                "precisio": 5,
+                "resistencia": 5
+            },
+            "moviments": [
+                {
+                    "nom": "Látigo Cepa",
+                    "descripcio": "Colpeja l'enemic amb ceps flexibles.",
+                    "potencia": 45,
+                    "contacte": true
+                },
+                {
+                    "nom": "Hoja Afilada",
+                    "descripcio": "Ataca amb fulles afilades com navalles.",
+                    "potencia": 55,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/8/86/latest/20190406151903/Ivysaur.png",
+            "evolucions": [
+                {
+                    "id": 3,
+                    "nivell": 32
+                }
+            ]
+        }
+    ]
+}
