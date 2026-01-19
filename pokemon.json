@@ -79,6 +79,86 @@
                     "nivell": 32
                 }
             ]
+        },
+        {
+            "id": 4,
+            "nom": "Charmander",
+            "tipus": ["Foc"],
+            "pes": {
+                "valor": 8.5,
+                "unitat": "kg"
+            },
+            "altura": {
+                "valor": 0.6,
+                "unitat": "m"
+            },
+            "estadisticas": {
+                "velocitat": 4,
+                "fortalesa": 3,
+                "precisio": 4,
+                "resistencia": 3
+            },
+            "moviments": [
+                {
+                    "nom": "Ascuas",
+                    "descripcio": "Ataca l'enemic amb petites flames.",
+                    "potencia": 40,
+                    "contacte": false
+                },
+                {
+                    "nom": "Arañazo",
+                    "descripcio": "Rasca l'enemic amb urpes afilades.",
+                    "potencia": 40,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/7/73/latest/20190406151737/Charmander.png",
+            "evolucions": [
+                {
+                    "id": 5,
+                    "nivell": 16
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "nom": "Charmeleon",
+            "tipus": ["Foc"],
+            "pes": {
+                "valor": 19,
+                "unitat": "kg"
+            },
+            "altura": {
+                "valor": 1.1,
+                "unitat": "m"
+            },
+            "estadisticas": {
+                "velocitat": 4,
+                "fortalesa": 4,
+                "precisio": 5,
+                "resistencia": 4
+            },
+            "moviments": [
+                {
+                    "nom": "Lanzallamas",
+                    "descripcio": "Expulsa una intensa flamarada contra l'enemic.",
+                    "potencia": 90,
+                    "contacte": false
+                },
+                {
+                    "nom": "Garra Metal",
+                    "descripcio": "Ataca amb urpes endurides com metall.",
+                    "potencia": 50,
+                    "contacte": true
+                }
+            ],
+            "imatge": "https://images.wikidexcdn.net/mwuploads/wikidex/4/4a/latest/20190406151821/Charmeleon.png",
+            "evolucions": [
+                {
+                    "id": 6,
+                    "nivell": 36
+                }
+            ]
         }
     ]
 }
